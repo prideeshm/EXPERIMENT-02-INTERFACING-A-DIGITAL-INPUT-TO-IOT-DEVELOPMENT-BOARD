@@ -143,11 +143,12 @@ void IRPAIR()
 ```
 
 ## OUTPUT
-# LED ON
-![iot 2 exp on](https://github.com/user-attachments/assets/1ae1baeb-965f-4ed8-adaa-f42b612ec7f0)
+## LED ON
+
+![iot 2 exp on](https://github.com/user-attachments/assets/d8729c14-2894-4e41-9e3b-5219c92d662d)
 
 
-# LED OFF
+## LED OFF
 ![iot 2 exp off](https://github.com/user-attachments/assets/11907272-7d02-41bd-9d61-c25e77b3b5cf)
 
 
